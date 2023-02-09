@@ -2,9 +2,9 @@
 **Ref**: https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/) 
 
 ## Monitoring Stack:
-Prometheus Server
-Alert manager
-Grafana
+- Prometheus Server
+- Alert manager
+- Grafana
 
-![images](https://devopscube.com/setup-prometheus-monitoring-on-kubernetes/)
+![images](https://github.com/Selvi2019/Prometheus/blob/master/prom.png)
 
